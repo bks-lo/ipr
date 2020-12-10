@@ -1,2 +1,2 @@
 # ipr
-ip ranges opration
+ip ranges operation
